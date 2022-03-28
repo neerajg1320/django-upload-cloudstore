@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-spirit-345412",
+  "private_key_id": "320a79ca9101874ee303d27fa93cfbd073ebdbda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC22CYCXXNZYVCL\ndQt/an3HmRpvmp699r9cNY2guJtTiwPU0+/OyUtRUbgJYTAuGgm4oydflFxbPYXB\n/uFGQrtIKpEMAD0qTpkf0JEFNJUwVpa09Dlqk3ldZbwsO2KoqMBfHem4yjYMJ6L5\neUGqouyebD/uh6WF98oWxtx72BQjzzVJB1URoqRP/qArrKUJ2c9QtLxvuk6O29Pg\n/LadxKG/J1SkGAlX8tQPwEr1evQjYY2ZVFng9Es3LlIkg+zGx4LMHmjjAjV72F1/\nI7GcYC0a9QrJlaQ3qaloGe5qzZFoT0TMURMLq0QbRls1Vp9ctMaHA9OFumpRcYZF\nFWjv/9gVAgMBAAECggEAGn2+Ig0Wm45TLGVopU0RTLQ0xZM2KSlBJ/O1YaIllQjY\n5QLQ5Zm6ER3hJ3C+mYtZubffykQVTn3fLZCHZJXiCw5pxf6Z3hGVs2uVO1cXP3Ho\nM28IC5Yy2RKWnST8ghmzB4TuukCH7KJohTMpjba9yCVAbQeXto2EaODmjIXtwxMx\nFXR0gvIYPahHMBU5AwFIVclTT7/g8Jx7PxBo6r3QMTnmzOyx+LXLt0gt3O/hVmy8\n5Z/z+hCc37qEcP4TZl1VtplYq9lDMe/xSDtDz9rW6txgEOCjlbQE8dmmMfS9Z8h4\nROyxhoGVNdG9GacpCNYqDQml88XpkqQXfeceBYzDmQKBgQDy1trACswqegYb6NGE\nRqWgWJ3HUzxHEmBqTq9TcktqLMOYVswo7x4T0l/NV5RsXB+rZfExiJUuRZcZ6iR6\nnXNbQfbcga9AVPh06HIm7R78Ku2BdWF600tF/VjVpEVaG9RpI+mqJ9EURQIpHS3H\nNA1CWZ6NYcyafxLXWFOBrOGaDQKBgQDAwOz9ODa24cJGjTB/OG9milBy5uAieW5O\nd8Z9QdFeCz0zd4KtZTfEQvXsjQJ89XWgU1p8qHTRdSYrEGogFmVYvP6KVScsCev1\n+8Z0l/u9Slcj7B9jrc6n9HszFiLAqeVYYa4OJCTuE0ssiV/mbYwluKZWaBbx2gW1\ne7NvJafcKQKBgQDcMDTpLOEzIrGnXNOdPPGxEqj9s1tUljUWL4KKB3iaLTytRQaZ\nlzeOgZKcfmz2VBHjN+wbHd0mt7LqrIOnKl0OwiE0j+J4UpN2bc4Tva36uHHikKxy\n0mPOcom6Ldk0e0d+jjGxN6k819W9sddwaKIdJ2W8jJEZBV/wIwaU7k0hgQKBgDQu\nhnnu0/EioQOUiYKHdrEd1LWmhxsOIKyhhFy4isOY61KZkgj7E+PP9N+7NOc7VEK5\nDhAdUrK5skGKShCxv3IMiCRO9THY5cZMCOfblU0jaP/SlpTXotCZQRkNbw8Vb39D\nwmkVo+HH21wNPKcXFQ/JM07FEyEaUt1UxbjbStwxAoGAUqDE5H/61/pyMrakaQ0o\nW15+mIzP0YB2vs3y8n1Vw5nngiWq7uPh/itGOJB8YNyI0KgP4ztucbqa0dYbFH4v\nOPorzEiqKJkd6L1g9++0nxy7TXVBuE8FAreBy8IuH+ptxMTmjaMc2zf2YWz4Gd8f\n/7JAWdQnZMqYVZkodkYWG74=\n-----END PRIVATE KEY-----\n",
+  "client_email": "django-upload-admin@stellar-spirit-345412.iam.gserviceaccount.com",
+  "client_id": "114653998849406281918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/django-upload-admin%40stellar-spirit-345412.iam.gserviceaccount.com"
+}
