@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 from pathlib import Path
 from google.oauth2 import service_account
+import os
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -27,7 +28,7 @@ SECRET_KEY = 'django-insecure-ycr@!d0!-*n4_avdl59(=ey@j=q7i3bxq2azx4)6^h&0p)gv8(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['23.236.53.153']
 
 
 # Application definition
@@ -135,6 +136,6 @@ GS_PROJECT_ID = 'stellar-spirit-345412'
 STATICFILES_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
 
 
-# GS_CREDENTIALS = service_account.Credentials.from_service_account_file(
-#     "./client_secret.json"
-# )
+GS_CREDENTIALS = service_account.Credentials.from_service_account_file(
+    os.path.join(BASE_DIR, 'stellar-spirit-345412-320a79ca9101.json')
+)
